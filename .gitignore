@@ -1,0 +1,50 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.assets.json
+.nuget/
+
+# Compiled binaries
+*.exe
+*.pdb
+*.dll
+*.manifest
+*.cache
+
+# Roslyn cache
+*.csproj.nuget.dgspec.json
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+
+# Environment
+.env
+.env.local
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Rider
+.idea/
+*.sln.iml
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
