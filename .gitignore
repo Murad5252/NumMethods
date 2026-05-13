@@ -5,7 +5,7 @@ obj/
 # Visual Studio
 .vs/
 *.user
-*.suo
+*.suo 
 *.userprefs
 *.userosscache 
 *.sln.docstates
